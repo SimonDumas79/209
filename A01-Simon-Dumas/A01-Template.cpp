@@ -79,15 +79,18 @@ bool movePlayer(char input) {
         playerY = newPlayerY;
         maze[playerX][playerY] = 'P';
     }
+    //if there is a wall, return
     else if (maze[newPlayerX][newPlayerY] == '#')
     {
         return true;
     }
+    //if there is an enemy, end the game and give a loss message
     else if (maze[newPlayerX][newPlayerY] == 'X')
     {
         isGameOver = true;
         std::cout << "You encountered an enemy and lost!\n";
     }
+    //if player reaches the end, end the game and give a win message
     else if (maze[newPlayerX][newPlayerY] == 'E')
     {
         isGameOver = true;

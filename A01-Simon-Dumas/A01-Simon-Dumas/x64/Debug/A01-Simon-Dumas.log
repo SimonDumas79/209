@@ -1,6 +1,7 @@
 ﻿  A01-Template.cpp
-Z:\IGMProfile\Desktop\209\2024\A01-Simon-Dumas\A01-Template.cpp(106,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
-Z:\IGMProfile\Desktop\209\2024\A01-Simon-Dumas\A01-Template.cpp(106,17): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
-Z:\IGMProfile\Desktop\209\2024\A01-Simon-Dumas\A01-Template.cpp(106,17): message : the missing variadic argument 2 is required by format string '%c'
-Z:\IGMProfile\Desktop\209\2024\A01-Simon-Dumas\A01-Template.cpp(106,17): message : this argument is used as a buffer size
-  A01-Simon-Dumas.vcxproj -> Z:\IGMProfile\Desktop\209\2024\A01-Simon-Dumas\x64\Debug\A01-Simon-Dumas.exe
+C:\Users\Simon\source\repos\209\A01-Simon-Dumas\A01-Template.cpp(106,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Simon\source\repos\209\A01-Simon-Dumas\A01-Template.cpp(106,17): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Simon\source\repos\209\A01-Simon-Dumas\A01-Template.cpp(106,17): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Simon\source\repos\209\A01-Simon-Dumas\A01-Template.cpp(106,17): message : this argument is used as a buffer size
+  LINK : C:\Users\Simon\source\repos\209\A01-Simon-Dumas\x64\Debug\A01-Simon-Dumas.exe not found or not built by the last incremental link; performing full link
+  A01-Simon-Dumas.vcxproj -> C:\Users\Simon\source\repos\209\A01-Simon-Dumas\x64\Debug\A01-Simon-Dumas.exe
