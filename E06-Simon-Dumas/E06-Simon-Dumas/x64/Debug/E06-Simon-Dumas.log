@@ -1,0 +1,6 @@
+﻿  E06-Simon-Dumas.cpp
+C:\Users\Simon\source\repos\209\E06-Simon-Dumas\E06-Simon-Dumas\E06-Simon-Dumas.cpp(155,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Simon\source\repos\209\E06-Simon-Dumas\E06-Simon-Dumas\E06-Simon-Dumas.cpp(155,17): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Simon\source\repos\209\E06-Simon-Dumas\E06-Simon-Dumas\E06-Simon-Dumas.cpp(155,17): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Simon\source\repos\209\E06-Simon-Dumas\E06-Simon-Dumas\E06-Simon-Dumas.cpp(155,17): message : this argument is used as a buffer size
+  E06-Simon-Dumas.vcxproj -> C:\Users\Simon\source\repos\209\E06-Simon-Dumas\x64\Debug\E06-Simon-Dumas.exe
