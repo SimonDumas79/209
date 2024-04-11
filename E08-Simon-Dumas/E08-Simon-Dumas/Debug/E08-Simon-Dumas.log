@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Simon\source\repos\209\E08-Simon-Dumas\E08-Simon-Dumas\main.cpp(93,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  E08-Simon-Dumas.vcxproj -> C:\Users\Simon\source\repos\209\E08-Simon-Dumas\Debug\E08-Simon-Dumas.exe
